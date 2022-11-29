@@ -1,3 +1,3 @@
-/Users/kashif/Documents/documents/codes_extracted/code/#01Codes/B.Tech Sem 5/OOps/Program10/cmake-build-debug/CMakeFiles/Program10.dir
-/Users/kashif/Documents/documents/codes_extracted/code/#01Codes/B.Tech Sem 5/OOps/Program10/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/kashif/Documents/documents/codes_extracted/code/#01Codes/B.Tech Sem 5/OOps/Program10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kashif/Desktop/OOPs_Lab/Program10/cmake-build-debug/CMakeFiles/Program10.dir
+/Users/kashif/Desktop/OOPs_Lab/Program10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kashif/Desktop/OOPs_Lab/Program10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

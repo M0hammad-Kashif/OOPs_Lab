@@ -1,4 +1,4 @@
-# Install script for directory: /Users/kashif/Documents/documents/codes_extracted/code/#01Codes/B.Tech Sem 5/OOps/Program6
+# Install script for directory: /Users/kashif/Desktop/OOPs_Lab/Program6
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/kashif/Documents/documents/codes_extracted/code/#01Codes/B.Tech Sem 5/OOps/Program6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/kashif/Desktop/OOPs_Lab/Program6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

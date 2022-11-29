@@ -6,10 +6,7 @@ class Matrix{
     int m , n ;
     int data[10][10]{};
 
-
-
 public:
-
     static int c;
     Matrix()
     {
